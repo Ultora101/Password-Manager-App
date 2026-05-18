@@ -27,3 +27,8 @@
 - [ ] Create a way to hash passwords so that they can be safe
 - [ ] Create validations for everything
 - [ ] Future features...
+
+# **Start Date**
+5/17/2026
+---
+My goal is to be done within 7 days for bare bones project
